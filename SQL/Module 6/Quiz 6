@@ -1,0 +1,46 @@
+
+MODULE 6 – QUIZ
+
+What is the syntax to rename view?
+
+Marked Answer :
+sp_rename old_viewname,new_viewname
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+When we should use views?
+
+Marked Answer :
+Both 1 and 2
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+How many types of user defined functions are there in SQL?
+
+Marked Answer :
+3
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+What will happen if a view is dropped?
+
+Marked Answer :
+Values from the table will be deleted
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Which function is used to return the error state number?
+
+Marked Answer :
+ERROR_STATE()
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following user defined function is a n exceptional alternative to view?
+
+Marked Answer :
+Inline table value
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Which function is used to implement error handling?
+
+Marked Answer :
+@@ERROR
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Total Marks 5 / 7
