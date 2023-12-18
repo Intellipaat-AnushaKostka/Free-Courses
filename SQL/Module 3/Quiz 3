@@ -1,0 +1,34 @@
+
+MODULE 3 – QUIZ
+
+What is the correct syntax for union operator?
+
+Marked Answer :
+SELECT column_name(s) FROM table1 UNION SELECT column_name(s) FROM table2;
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following statement is true about join?
+
+Marked Answer :
+We can retrieve data from two or more table based on logical Relationship between tables.
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+What will happen when we apply Intersect operator between A and B, where A=4, 5, 3, 9 and B=8, 7, 4, 5.
+
+Marked Answer :
+4, 5
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which statement is true about self join?
+
+Marked Answer :
+It works as a Cartesian product of two rows I
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+What is inner join?
+
+Marked Answer :
+It returns rows that match the ON condition.
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Total Marks 2 / 5
