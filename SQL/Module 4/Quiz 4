@@ -1,0 +1,63 @@
+
+MODULE 4 – QUIZ
+What will be the output of the following?
+
+Select Replace (‘This is my bike’, ‘my’, ‘car’)
+
+Marked Answer :
+This is car bike
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+What will be the output of the following
+
+Select floor (123.7456), ceiling (123.7456)
+
+Marked Answer :
+124,123
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+DATEPART function is
+
+Marked Answer :
+Deterministic
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following function will work on char data type?
+
+Marked Answer :
+Ltrim
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+The Inline view is based on
+
+Marked Answer :
+FROM clause
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following function will work on numeric data type and return a single value?
+
+Marked Answer :
+All of the above
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which function will return the current date and time?
+
+Marked Answer :
+Both 1 and 2
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+What will be the output of the following?
+
+Select len(RTRIM(‘    Abhi    ‘))
+
+Marked Answer :
+None of these
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Which function will work on any data type?
+
+Marked Answer :
+DATENAME
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Total Marks 6 / 9
