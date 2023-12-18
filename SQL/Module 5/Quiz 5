@@ -1,0 +1,40 @@
+
+MODULE 5 – QUIZ
+
+Subquery is also known as-
+
+Marked Answer :
+Nestedquery
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following is not true about view?
+
+Marked Answer :
+It is a virtual table, which can have multiple columns from one or more table.
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Which of the following are the types of view?
+
+Marked Answer :
+Partitioned view
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+What will happen when we do not specify particular row in a DELETE statement.
+
+Marked Answer :
+All the rows in the table will be removed
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which statement allow to modify data contained in the rows of a specified table
+
+Marked Answer :
+Update
+
+TOTAL MARKS : 1 MARKS OBTAINED  1
+Which of the following is true about subqueries?
+
+Marked Answer :
+The value returned by Subquery is used to execute the main query.
+
+TOTAL MARKS : 1 MARKS OBTAINED  0
+Total Marks 3 / 6
